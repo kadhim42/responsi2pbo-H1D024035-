@@ -5,6 +5,7 @@ public class UjiSDM {
         // ==========================================================
         // DATA UJI COBA
         // ==========================================================
+    	System.out.println("=== PENGUJIAN PROGRAMMER MAGANG ===");
         ProgrammerMagang andi = new ProgrammerMagang("Andi", 50000.0, "1234");
 
         // 2. PENGUJIAN METODE BERURUTAN
