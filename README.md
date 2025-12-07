@@ -2,8 +2,8 @@
 
 **Dibuat oleh:** Kadhim Ahmad Barakbah  
 **NIM:** H1D024035
-**Shift Baru:** Shift G    
-**Shift KRS:** Shift A
+**Shift Baru:** Shift A    
+**Shift KRS:** Shift G
 
 ---
 
